@@ -9,10 +9,10 @@ Welcome to my Github! My name is Grant Copeland <br> 📍 Austin, TX | Open to o
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"/></a>
   &nbsp;
   <a href="https://advanced-e-commerce-api-mod13-mini.onrender.com/api/docs/#/">
-    <img src="https://img.shields.io/badge/Python API - E_Commerce_Project-darkgreen?style=for-the-badge&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python API E_Commerce_Project-darkgreen?style=for-the-badge&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/gcland/E-Commerce-API-react">
-    <img src="https://img.shields.io/badge/React - E_Commerce_Project-yellow?style=for-the-badge&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/React E_Commerce_Project-yellow?style=for-the-badge&logoColor=white"/></a>
 </div>
 
 ### 🛠️ Tools, libraries, technologies, and frameworks I've worked with:
